@@ -102,8 +102,7 @@ Students can be registered, courses can be added, and enrollments can be managed
 ## 🎯 Learning Outcomes
 
 - Hands-on experience with Spring Boot MVC  
-- CRUD operations using Spring Data JPA  
-- Database relationships (One-to-Many, Many-to-Many)  
+- CRUD operations using Spring Data JPA   
 - Building real-world web applications  
 - MVC architecture understanding  
 
