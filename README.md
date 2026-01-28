@@ -75,30 +75,6 @@ Students can be registered, courses can be added, and enrollments can be managed
 
 ------------------------------------------------------------
 
-## 🗄️ Database Design
-
-- **Student Table**
-  - Student ID
-  - First Name
-  - Last Name
-  - Date of Birth
-  - Gender
-  - Email
-  - Phone Number
-  - Branch
-
-- **Course Table**
-  - Course ID
-  - Course Name
-
-- **Enrollment Table**
-  - Enrollment ID
-  - Student ID
-  - Course ID
-
-
-------------------------------------------------------------
-
 ## 🎯 Learning Outcomes
 
 - Hands-on experience with Spring Boot MVC  
